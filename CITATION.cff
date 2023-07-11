@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Linder"
+  given-names: "Anne Cathrine"
+  orcid: "https://orcid.org/0000-0002-6556-7847"
+- family-names: "Lusseau"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0003-1245-3747"
+title: "SoMe-CES"
+version: 1.0.0
+date-released: 2023-07-11
+url: "https://github.com/annecathrinel/SoMe-CES"
