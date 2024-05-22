@@ -1,6 +1,6 @@
 # Using Social Media (SoMe) to Understand Cultural Ecosystem Services (CES)
-Linder and Lusseau (2023)
-https://arxiv.org/abs/2307.09408
+Linder and Lusseau (2024)
+https://doi.org/10.1016/j.scitotenv.2024.172813
 
 Repository for paper on using social media data (Reddit and Twitter) to understand the contexts of human-nature interactions providing CES.
 
